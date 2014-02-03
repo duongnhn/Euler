@@ -17,7 +17,7 @@ int checkPrime(long x)
      return 1;
 }
 
-int main()
+int main() 
 {
     //cout << checkPrime(12) << endl;
     int max = 9999;
